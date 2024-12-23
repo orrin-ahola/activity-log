@@ -1,0 +1,32 @@
+[
+    {
+        "id": "9fd3712f-c54c-489e-b8da-f396cd3428e9",
+        "date": "2024-12-17",
+        "time": "12:17",
+        "text": "Spent roughly 3.5 hours coding.  Worked on getting activity log app working better.  Last bit of functionality is getting the edit button working.  Still struggling with display.  Might try putting whole thing in a div that I can set padding for.  Next time."
+    },
+    {
+        "id": "69d4747e-ffd2-4965-8502-e8457ee37cc3",
+        "date": "2024-12-17",
+        "time": "08:25",
+        "text": "Spent roughly 3 hrs doing 30 charts.  Need a revolution in approach!"
+    },
+    {
+        "id": "acd2f7be-d9ee-4ea4-acd9-0ec4f7a3f71f",
+        "date": "2024-12-15",
+        "time": "20:13",
+        "text": "Did three hours of coding with chatgpt.  Got the SMART talking to openai API.  Can now enter H&P dictation (including physician's directives regarding template usage) into the text box > click preprocess H&P > the API is queried and spits back the appropriate templates to used based on the dictation.  Yay."
+    },
+    {
+        "id": "9e455cd6-69f2-4fa9-924a-515ff6184b9b",
+        "date": "2024-12-13",
+        "time": "10:48",
+        "text": "In 30 minutes I got Chat to create a local instance of a personal activity log browser app.  There is one quirk which is that edit and delete buttons have to be clicked twice.  Also when editing, it puts the data into the new entry section which is quirky, but overall not bad.  Also when you add an entry, it displays at the bottom until you refresh the page. \n I would eventually like to fix these issues.  Also I would like to make it web based so I can access this from any computer and my phone.  Log in authentication etc."
+    },
+    {
+        "id": "a3a199fc-d074-4207-9718-e867f0123995",
+        "date": "2024-12-13",
+        "time": "10:18",
+        "text": "Spent about 3 hours playing around with creating an X research tool that could find profiles based on keywords and filtered for follower count.  1st try apparently exhausted the free API rate limit!  So after all that it was a dead end.  Need to think of other options.  There are paid tools. Hello. Goodbye."
+    }
+]
